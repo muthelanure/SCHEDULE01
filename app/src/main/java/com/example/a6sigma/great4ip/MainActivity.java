@@ -1,4 +1,4 @@
-package com.example.a6sigma.great4ip.Model;
+package com.example.a6sigma.great4ip;
 
 import android.app.Activity;
 import android.os.Bundle;
@@ -9,7 +9,7 @@ import android.widget.SimpleAdapter;
 import java.util.ArrayList;
 import java.util.HashMap;
 
-public class ScheduleActivity extends Activity {
+public class MainActivity extends Activity {
 protected ListView lv;
     protected ListAdapter adapter;
     SimpleAdapter Adapter;
