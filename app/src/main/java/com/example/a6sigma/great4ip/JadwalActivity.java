@@ -29,7 +29,7 @@ super.onCreate(savedInstanceState);
 
         Pil = new String[] {"MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY","FRIDAY","SATURDAY",  "SUNDAY"};
 
-  // Ltn = new String[] {"Anjing Jinak", "Kambing Hutan", "Kucing-Kucingan", "Kuda-kudaan", "Naga Bonar"};
+
 Gbr = new String[] {Integer.toString(R.drawable.day),
                     Integer.toString(R.drawable.day),
                     Integer.toString(R.drawable.day),
